@@ -1,6 +1,5 @@
 # Connect 4 - AI
-Developed by Marcus Novoa & Jawahar Kandra
-
+Developed by Venkat Sai Yalla
 A virtual rendition of the classic "Connect 4" board game using reinforcement learning.
 
 This project was built using Python and Pygame.

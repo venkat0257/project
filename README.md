@@ -38,4 +38,3 @@ This project was built using Python and Pygame.
 
 ![Game Window - Player 1 Wins](./img/p1.png)
 ![Game Window - AI Wins](./img/allwin.png)
-![Game Window - Tie Game](./img/readme_tie.png)
